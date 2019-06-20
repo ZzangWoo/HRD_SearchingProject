@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">HRD_Project</string>
+
+    <!-- 버튼 텍스트 -->
+    <string name="loginButton">로그인</string>
+    <string name="signupButton">회원가입</string>
+    <string name="checkIDButton">아이디\n체크</string>
+    <string name="checkNameButton">이름\n체크</string>
+    <string name="signupFinishButton">회원가입\n완료</string>
+    <string name="hrdButton">출석부</string>
+    <string name="boardButton">게시판</string>
+    <string name="logoutButton">로그아웃</string>
+    <string name="findAllButton">사용자조회</string>
+    <string name="modifyButton">회원수정</string>
+    <string name="homeButton">홈으로</string>
+    <string name="backButton">뒤로가기</string>
+    <string name="wholeSearch">전체조회</string>
+    <string name="search2to3">2월 19일 ~\n3월 18일</string>
+    <string name="search3to4">3월 19일 ~\n4월 18일</string>
+    <string name="search4to5">4월 19일 ~\n5월 18일</string>
+    <string name="modifyButton2">수정</string>
+    <string name="modifyFinishButton">수정완료</string>
+
+
+    <!-- 에디트 텍스트 Hint -->
+    <string name="editIDHint">아이디 입력</string>
+    <string name="editPWHint">비밀번호 입력</string>
+    <string name="editPW2Hint">비밀번호 재입력</string>
+    <string name="editNameHint">이름 입력</string>
+    <string name="editEmailHint">이메일 입력</string>
+    <string name="editStudentNameHint">학생 이름</string>
+    <string name="editContentTitle">내용을 입력하세요</string>
+    <string name="editTitle">제목</string>
+    <string name="editContent">내용</string>
+
+    <!-- 텍스트 뷰 -->
+    <string name="textID">아이디</string>
+    <string name="textPW">비밀번호</string>
+    <string name="textPW2">확인</string>
+    <string name="textName">이름</string>
+    <string name="textEmail">이메일</string>
+    <string name="rootLogin">관리자모드로\n로그인하셨습니다</string>
+    <string name="textDate">수업날짜</string>
+    <string name="textAttendance">출결여부</string>
+    <string name="textInTime">입실시간</string>
+    <string name="textOutTime">퇴실시간</string>
+    <string name="textSearch">검색</string>
+    <string name="textWriting">글쓰기</string>
+    <string name="textHome">홈</string>
+    <string name="textRewriting">글 수정</string>
+    <string name="textDelete">글 삭제</string>
+    <string name="textList">글 목록</string>
+</resources>

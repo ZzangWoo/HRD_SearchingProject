@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ZzangWoo.com">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@drawable/searchicon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/searchicon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BoardModifyActivity"></activity>
+        <activity android:name=".BoardWriteActivity" />
+        <activity
+            android:name=".BoardSearchPopUpActivity"
+            android:theme="@style/AppTheme.selectActivity" />
+        <activity android:name=".ShowBoardActivity" />
+        <activity android:name=".BoardMainActivity" />
+        <activity android:name=".ModifyActivity" />
+        <activity
+            android:name=".ModifyPopUpActivity"
+            android:theme="@style/AppTheme.selectActivity" />
+        <activity
+            android:name=".SearchingPopUpActivity"
+            android:theme="@style/AppTheme.selectActivity" />
+        <activity android:name=".SearchingFragment.Search4to5Fragment" />
+        <activity android:name=".SearchingFragment.Search3to4Fragment" />
+        <activity android:name=".SearchingFragment.Search2to3Fragment" />
+        <activity android:name=".SearchingFragment.SearchWholeFragment" />
+        <activity android:name=".StudentAttendanceActivity" />
+        <activity android:name=".FindAllActivity" />
+        <activity android:name=".LoginSuccessRootMain" />
+        <activity android:name=".LoginSuccessMain" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
