@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HRD_SearchingProject/WebContent/App/App_BoardFist.jsp&apos; to &apos;App_BoardFirst.jsp&apos;" description="Rename resource &apos;App_BoardFist.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/App/App_BoardFist.jsp" name="App_BoardFirst.jsp" stamp="1560868824315" updateReferences="true"/>
+</session>

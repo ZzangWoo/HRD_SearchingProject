@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Jun 12 13:42:12 KST 2019
+org.eclipse.jst.jee.server\:HRD_SearchingProject=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\HRD_SearchingProject
+org.eclipse.jst.j2ee.server\:tomcat-dbcp=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\HRD_SearchingProject\\WEB-INF\\lib\\tomcat-dbcp.jar
